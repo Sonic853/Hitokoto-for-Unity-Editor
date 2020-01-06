@@ -1,6 +1,8 @@
 # Unity Editor Hitokoto
 在你的 Unity 编辑器上显示一言！
+
 该插件引用了 <a href="https://hitokoto.cn" target="_blank">Hitokoto - 一言</a>（Hitokoto.cn）的 API，为 Unity 编辑器提供显示一言的功能。
+
 默认为您显示游戏类的一言。
 
 ## 预览
