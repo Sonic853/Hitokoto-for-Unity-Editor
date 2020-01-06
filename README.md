@@ -5,7 +5,7 @@
 
 ## 使用
 1. 下载[Releases](https://github.com/Sonic853/Unity-Editor-Hitokoto/releases)里的HitokotoForUnityEditor.unitypackage文件
-2. 双击该文件或者是将HitokotoForUnityEditor.unitypackage文件拖入 Unity 编辑器
+2. 双击该文件或者将HitokotoForUnityEditor.unitypackage文件拖入 Unity 编辑器
 3. Enjoy！
 
 ## 它在何时显示？
