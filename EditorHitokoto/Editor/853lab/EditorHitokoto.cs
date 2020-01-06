@@ -20,7 +20,6 @@ public class EditorHitokoto
     public class Startup {
         static Startup()
         {
-            GetHitokoto();
             if(EditorPrefs.GetString("HitokotoJ_853lab")==""){
                 hitokotoSetting = new HitokotoSetting{disable = 0};
                 EditorPrefs.SetString("HitokotoJ_853lab",JsonUtility.ToJson(hitokotoSetting));
@@ -28,6 +27,7 @@ public class EditorHitokoto
             }else{
                 hitokotoSetting = JsonUtility.FromJson<HitokotoSetting>(EditorPrefs.GetString("HitokotoJ_853lab"));
             }
+            GetHitokoto();
         }
     }
     [InitializeOnLoadAttribute]
