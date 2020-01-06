@@ -13,8 +13,8 @@
 ![Snipaste_2020-01-06_21-50-52](https://user-images.githubusercontent.com/8389962/71822445-d188fa00-30cf-11ea-92c1-066ff6914007.png)
 
 ## 使用
-1. 下载[Releases](https://github.com/Sonic853/Unity-Editor-Hitokoto/releases)里的HitokotoForUnityEditor.unitypackage文件
-2. 双击该文件或者将HitokotoForUnityEditor.unitypackage文件拖入 Unity 编辑器
+1. 下载 [Releases](https://github.com/Sonic853/Unity-Editor-Hitokoto/releases) 里的 HitokotoForUnityEditor.unitypackage 文件
+2. 双击该文件或者将 HitokotoForUnityEditor.unitypackage 文件拖入 Unity 编辑器
 3. Enjoy！
 
 ## 它在何时显示？
