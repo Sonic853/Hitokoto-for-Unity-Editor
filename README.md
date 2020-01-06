@@ -5,6 +5,9 @@
 
 默认为您显示游戏类的一言。
 
+## Unity 版本要求
+使用 Unity2019.3.0f4 制作，要求 Unity 版本在 2018.1 或更高。
+
 ## 预览
 ![Snipaste_2020-01-06_21-49-58](https://user-images.githubusercontent.com/8389962/71822353-9f779800-30cf-11ea-9e85-f26957e90b12.png)
 ![Snipaste_2020-01-06_21-50-52](https://user-images.githubusercontent.com/8389962/71822445-d188fa00-30cf-11ea-92c1-066ff6914007.png)
